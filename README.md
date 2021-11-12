@@ -19,5 +19,5 @@ glEnd();
     //glVertex2f(i, -0.23 * pow(i,2) + i );
     //glVertex2f(i, sqrt(  (1 + 3 * i)/2 + 3 * i ) );
     //glVertex2f(i, pow( (5+ 4 * i) ,2) +8 * i + cos(21 * i +10) );
-    }
     glEnd();
+}
